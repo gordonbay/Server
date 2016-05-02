@@ -15,7 +15,7 @@ expFromPlayersLevelRange = 200
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "localhost"
+ip = "tibialite.noip.me"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
